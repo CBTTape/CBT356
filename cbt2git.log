@@ -1,0 +1,15 @@
+2023-08-06 03:36:50.200044 - Initialized conversion of CBT356
+2023-08-06 03:36:50.336828 - Received CBT.V505.FILE356.PDS from FILE356.XMI 
+2023-08-06 03:36:50.339291 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:36:50.340320 - Found $$$NAME.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/$$$NAME
+2023-08-06 03:36:50.341578 - Found $README.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/$README
+2023-08-06 03:36:50.342566 - Found @FILE356.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/@FILE356
+2023-08-06 03:36:50.343453 - Found ALL.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/ALL
+2023-08-06 03:36:50.344572 - Found APPL.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/APPL
+2023-08-06 03:36:50.346037 - Found ASM.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/ASM
+2023-08-06 03:36:50.346049 - Found DATA.x-empty containing application/x-empty, moved to PDS/DATA
+2023-08-06 03:36:50.347825 - Found DOC.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/DOC
+2023-08-06 03:36:50.348629 - Found HELP.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/HELP
+2023-08-06 03:36:50.349579 - Found JCL.jcl (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/JCL
+2023-08-06 03:36:50.350494 - Found NEWS.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/NEWS
+2023-08-06 03:36:50.351412 - Found PROC.txt (text/plain) in CBT.V505.FILE356.PDS, moved to PDS/PROC
